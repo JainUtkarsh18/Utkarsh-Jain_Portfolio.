@@ -4,7 +4,7 @@ This is my personal portfolio website built using HTML and CSS. It showcases my 
 
 ## Live Website
 
-[View Portfolio](https://jainutkarsh18.github.io/Utkarsh-Jain_Portfolio/)
+[View Portfolio](https://jainutkarsh18.github.io/Utkarsh-Jain_Portfolio./)
 
 ## Sections Included
 
