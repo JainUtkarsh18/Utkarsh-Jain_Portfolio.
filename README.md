@@ -26,9 +26,4 @@ This is my personal portfolio website built using HTML and CSS. It showcases my 
 - Responsive Web Design
 - GitHub Pages
 
-## Contact
-
-- LinkedIn: [Utkarsh Jain](https://www.linkedin.com/in/utkarsh-jain-a407ab24b/)
-- GitHub: [JainUtkarsh18](https://github.com/JainUtkarsh18)
-- LeetCode: [JainUtkarsh18](https://leetcode.com/u/JainUtkarsh18/)
-- Kaggle: [utkarshjain76](https://www.kaggle.com/utkarshjain76)
+© All Rights Reserved.
